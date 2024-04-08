@@ -1,4 +1,14 @@
 body {
     font-family: dm sans;
     font-size: 20px;
+    text-align: center;
 }
+
+.imagen1 {
+    text-align: center;
+}
+
+.card-text {
+    text-align: justify}
+
+    
