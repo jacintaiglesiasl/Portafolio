@@ -4,6 +4,10 @@ body {
     text-align: center;
 }
 
+nav {
+    font-family: dm sans;
+}
+
 .imagen1 {
     text-align: center;
 }
@@ -11,4 +15,3 @@ body {
 .card-text {
     text-align: justify}
 
-    
